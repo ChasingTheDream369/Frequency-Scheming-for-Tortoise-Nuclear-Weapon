@@ -48,18 +48,14 @@ $ stack build
 
 **Problem 1: Inside Function**
 
-```
-haskell
-
+```haskell
 -- Checks if a frequency is inside an interval
 inside :: Freq -> Interval -> Bool
 ```
 
 **Problem 2: Sorting and Manipulating Histograms**
 
-```
-haskell
-
+```haskell
 -- Sorts a histogram by interval
 sortHistogram :: [(Interval, Count)] -> [(Interval, Count)]
 
@@ -72,9 +68,7 @@ histogram :: [(Interval, Count)] -> Histogram
 
 **Problem 3: Frequency Processing**
 
-```
-haskell
-
+```haskell
 -- Processes a list of Freq and generates a histogram
 process :: [Freq] -> Histogram
 
