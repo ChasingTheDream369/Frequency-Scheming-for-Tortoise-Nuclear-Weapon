@@ -1,5 +1,3 @@
-# Frequency-Scheming-for-Tortoise
-
 # Frequency Scheming for Tortoise Nuclear Weapon
 
 <div align="center">
