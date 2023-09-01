@@ -21,8 +21,6 @@
 
 Welcome to Frequency Scheming for Tortoise Nuclear Weapon! This repository contains a Haskell implementation for frequency-based scheming. With this codebase, you can explore and manipulate frequencies and intervals efficiently.
 
-![Tortoise Nuclear Weapon](https://github.com/YourUsername/YourRepoName/raw/main/assets/nuclear-weapon.gif)
-
 ---
 
 ## Features
